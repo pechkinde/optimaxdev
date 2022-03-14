@@ -1,0 +1,17 @@
+.add-item {
+  grid-column: 1 / -1;
+  justify-self: center;
+  width: 100%;
+  max-width: 320px;
+  padding: 1rem;
+}
+
+.add-item__input {
+  width: 100%;
+  margin-bottom: 1rem;
+}
+
+.add-item__btn {
+  width: 100%;
+  background-color: #2563eb;
+}

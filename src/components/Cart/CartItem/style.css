@@ -1,0 +1,28 @@
+.cart-item {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 1rem;
+  border-radius: 0.5rem;
+  box-shadow: 0 25px 50px -12px rgb(0 0 0 / 0.25);
+}
+
+.cart-item__name {
+  font-weight: 500;
+}
+
+.cart-item__price {
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.cart-item__total {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  font-weight: 500;
+}
+
+.cart-item__remove-btn {
+  width: 100%;
+  background-color: #dc2626;
+}

@@ -1,0 +1,23 @@
+.number-input {
+  display: flex;
+  border: 1px solid #888;
+  border-radius: 0.5rem;
+}
+
+.number-input__button {
+  background: none;
+  border: none;
+  width: 2.5rem;
+  height: 2.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.number-input__value {
+  width: 2.5rem;
+  height: 2.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
